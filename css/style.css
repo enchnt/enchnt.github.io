@@ -442,7 +442,7 @@ left: calc(50% - 110px);
 
 
 /* ================ Services Section ================ */
-#section-services {
+#section-whymobileapp {
 	position:relative;
 	background-color: #333333;
 	color: #e5e5e5;
@@ -568,7 +568,7 @@ border: 0 !important;
 
 
 /* ================ ScreenShots Section ================ */
-#section-screenshots {
+#section-customers {
 	background-color:#333333;
 	color:#e5e5e5;
 }

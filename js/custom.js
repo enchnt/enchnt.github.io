@@ -181,7 +181,7 @@ $(document).ready(function() {
 		var href 			= $(this).attr('href') + ' .portfolio-project',
 			portfolioWrap	= $('.porfolio-container'),
 			contentLoaded 	= $('#portfolio-load'),
-			offset			= $('#section-screenshots').offset().top;
+			offset			= $('#section-customers').offset().top;
 		
 		portfolioWrap.animate({'left':'-120%'},{duration:400,queue:false});
 		portfolioWrap.fadeOut(400);
