@@ -396,7 +396,8 @@ left: calc(50% - 110px);
 }
 
 .single-feature .feature-image {
-
+	padding-top:  20px;
+	padding-bottom:  0px;
 }
 
 
